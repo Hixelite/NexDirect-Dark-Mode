@@ -2,7 +2,7 @@
 
 ![NexDirect logo](Designs/logo.png)
 
-# NexDirect
+# NexDirect Dark Mode UI
 
 *An alternative, open-source beatmap downloader for the game osu!, written in C#.*
 
