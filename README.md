@@ -11,7 +11,8 @@
 </div>
 
 ## Usage
-Binary releases can be found [here in the releases section](https://github.com/nicholastay/NexDirect/releases). Please note that NexDirect is still in development and you may encounter bugs. If you do, please open an issue here on this repository with steps to reproduce it so it can be addressed.
+Original Release here [here in the releases section](https://github.com/nicholastay/NexDirect/releases).
+NexDirect DarkMode Release here [herein the release section](https://github.com/Hixelite/NexDirect-Dark-Mode/releases/tag/NexDirect-Darkmode%2CNexDirect)
 
 Downloading a beatmap is simple. Just type in the map you wish to download, click search and double click any map to start downloading it.
 
